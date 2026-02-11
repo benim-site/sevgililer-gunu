@@ -1,0 +1,29 @@
+# emirhan-demet
+
+## Valentine's Day Özel Web Sitesi
+
+Bu site Happy Valentine's Day için özel olarak oluşturulmuştur.
+
+### Kullanım
+
+1. ZIP dosyasını çıkartın
+2. `index.html` dosyasını bir web tarayıcısında açın
+3. Müzik için "Başlat" butonuna tıklayın
+
+### İçerik
+
+- **Birlikte Geçen Gün**: 327 gün
+- **Şarkı**: California Dreamin' - The Mamas & The Papas
+- **Özel Mesaj**: İyiki varsın boncuğum
+
+### Özellikler
+
+✨ Müzik player
+💝 Kalp animasyonları
+🎨 Scroll animasyonları
+📸 9 özel fotoğraf
+💌 Kişisel mektup
+
+---
+
+💝 Sevgiyle hazırlandı
